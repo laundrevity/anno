@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 aiohttp = "*"
+docstring-parser = "*"
+pydantic = "*"
+pytest = "*"
+pytest-asyncio = "*"
+click = "*"
+chromadb = "*"
 
 [dev-packages]
 
